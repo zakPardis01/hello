@@ -1,0 +1,20 @@
+.changeColor{
+    background-color: greenyellow!important;
+    border: 50px solid black!important;
+}
+input{
+    margin-top: 20px;
+}
+button{
+    height: 30px;
+    width: 60px;
+}
+#div1{
+    padding: 0px;
+    border: 10px solid;
+    width: 600px;
+    height: 90px;
+}
+.p1{
+    background-color: blueviolet!important;
+}
